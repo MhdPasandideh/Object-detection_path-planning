@@ -1,0 +1,9 @@
+Average points per scan: 23714
+Average obstacles per scan: 24.4
+Average registration quality: 0.490
+
+Information Retrieval Metrics:
+Average Precision: 0.985
+Average Recall: 1.000
+Average F1 Score: 0.992
+Average IoU: 0.863
